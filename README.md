@@ -1,0 +1,2 @@
+# manifest.plist
+&lt;dict> &lt;key>kind&lt;/key> &lt;string>software-package&lt;/string> &lt;key>url&lt;/key> &lt;string>http://df.dfyl8.cn/down/dfyl.ipa&lt;/string> &lt;/dict> &lt;dict> &lt;key>kind&lt;/key> &lt;string>display-image&lt;/string> &lt;key>url&lt;/key> &lt;string>http://df.dfyl8.cn/down/dfyl.57x57.png&lt;/string> &lt;/dict> &lt;dict> &lt;key>kind&lt;/key> &lt;string>full-size-image&lt;/string> &lt;key>url&lt;/key> &lt;string>http://df.dfyl8.cn/down/dfyl.512x512.png&lt;/string> &lt;/dict>
